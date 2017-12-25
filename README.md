@@ -1,4 +1,4 @@
-# computational_graph
+# Computational Graph
 Small JS implementation of computational graph mentioned in http://plumatic.github.io/prismatics-graph-at-strange-loop.
 
 Tested in Chrome console.
